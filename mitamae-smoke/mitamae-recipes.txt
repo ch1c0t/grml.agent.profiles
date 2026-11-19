@@ -1,0 +1,4 @@
+# Direct recipe, nested list, then a directory's default.rb.
+recipes/10-bootstrap.rb
+recipes/sequence.list
+recipes/defaults
