@@ -1,0 +1,1 @@
+# This profile exercises recipes; it installs no Debian packages.
