@@ -1,0 +1,2 @@
+# Prefer a host installation; otherwise fetch the latest Linux x86_64 release.
+mitamae https://github.com/itamae-kitchen/mitamae/releases/latest/download/mitamae-x86_64-linux
