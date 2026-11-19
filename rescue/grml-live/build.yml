@@ -1,0 +1,27 @@
+suite: trixie
+classes:
+  - GRML_SMALL
+  - NO_ONLINE
+  - RESCUE
+
+hostname: rescue-system
+username: operator
+distri_name: rescue
+distri_info: Custom GRML rescue environment
+grml_name: rescue
+release_name: rescue
+version: "0.1.0"
+iso_name: rescue_0.1.0.iso
+
+boot_options:
+  - ssh
+
+secure_boot: false
+release: false
+bootstrap_mirror_url: http://deb.debian.org/debian
+
+# Optional Debian snapshot date (YYYYMMDD or YYYYMMDDTHHMMSSZ).
+# wayback_date: "20261101"
+
+# Pin this to a grml-live commit SHA for repeatable source selection.
+grml_live_ref: master

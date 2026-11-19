@@ -1,0 +1,7 @@
+PACKAGES install
+
+gddrescue
+partclone
+smartmontools
+testdisk
+tmux
