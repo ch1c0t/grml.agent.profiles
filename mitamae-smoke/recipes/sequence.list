@@ -1,0 +1,3 @@
+# Recipe paths remain relative to the profile directory.
+recipes/20-list-entry.rb
+recipes/nested.list
